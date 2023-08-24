@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Oswald:wght@300&family=Poppins:wght@100&display=swap");
+
 .sid {
   color: whitesmoke;
   background-color: lightgreen;
@@ -6,7 +8,12 @@
 .vis {
   color: whitesmoke;
   background-color: brown;
+  text-align: center;
 }
 * {
   background-color: antiquewhite;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
 }
