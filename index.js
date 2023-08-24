@@ -4,8 +4,8 @@
 
 var sid = document.getElementById("sid");
 const getAdvice = async function () {
-  const res = await fetch("https://api.adviceslip.com/advice");
-  const data = await res.json();
+  const resdata = await fetch("https://api.adviceslip.com/advice");
+  const data = await resdata.json();
 
   // Updating values
   var advice = data.slip.advice;
