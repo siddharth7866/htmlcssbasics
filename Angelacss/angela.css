@@ -3,17 +3,24 @@
 .sid {
   color: whitesmoke;
   background-color: lightgreen;
+
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+  margin-left: auto;
 }
 
 .vis {
   color: whitesmoke;
   background-color: brown;
   text-align: center;
+  width: fit-content;
+  height: fit-content;
 }
 * {
   background-color: antiquewhite;
   font-family: "Open Sans", sans-serif;
   font-family: "Oswald", sans-serif;
   font-family: "Poppins", sans-serif;
-  text-align: center;
+  text-align: right;
 }
