@@ -1,3 +1,12 @@
-h1 {
-  color: red;
+.sid {
+  color: whitesmoke;
+  background-color: lightgreen;
+}
+
+.vis {
+  color: whitesmoke;
+  background-color: brown;
+}
+* {
+  background-color: antiquewhite;
 }
