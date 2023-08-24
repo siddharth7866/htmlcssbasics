@@ -20,4 +20,4 @@ const getAdvice = async function () {
   //   adviceEl.textContent = advice;
 };
 
-console.log(getAdvice());
+setInterval(getAdvice, 5000);
