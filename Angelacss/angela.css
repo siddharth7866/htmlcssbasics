@@ -24,3 +24,8 @@
   font-family: "Poppins", sans-serif;
   text-align: right;
 }
+
+h1 {
+  color: red;
+  color: green !important;
+}
